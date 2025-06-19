@@ -1,0 +1,349 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\ruchi\\OneDrive\\Desktop\\Projects\\BookShoppingCartMVC\\BookShoppingCartMVC\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BookShoppingCartMVC.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BookShoppingCartMVC.kydykayu1f.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\ruchi\\OneDrive\\Desktop\\Projects\\BookShoppingCartMVC\\BookShoppingCartMVC\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ruchi\\OneDrive\\Desktop\\Projects\\BookShoppingCartMVC\\BookShoppingCartMVC\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\ruchi\\OneDrive\\Desktop\\Projects\\BookShoppingCartMVC\\BookShoppingCartMVC\\wwwroot\\images\\1984.jpg",
+      "PackagePath": "staticwebassets\\images\\1984.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ruchi\\OneDrive\\Desktop\\Projects\\BookShoppingCartMVC\\BookShoppingCartMVC\\wwwroot\\images\\NoImage.png",
+      "PackagePath": "staticwebassets\\images\\NoImage.png"
+    },
+    {
+      "Id": "C:\\Users\\ruchi\\OneDrive\\Desktop\\Projects\\BookShoppingCartMVC\\BookShoppingCartMVC\\wwwroot\\images\\dracula.jpg",
+      "PackagePath": "staticwebassets\\images\\dracula.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ruchi\\OneDrive\\Desktop\\Projects\\BookShoppingCartMVC\\BookShoppingCartMVC\\wwwroot\\images\\dune.jpg",
+      "PackagePath": "staticwebassets\\images\\dune.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ruchi\\OneDrive\\Desktop\\Projects\\BookShoppingCartMVC\\BookShoppingCartMVC\\wwwroot\\images\\frankenstein.jpg",
+      "PackagePath": "staticwebassets\\images\\frankenstein.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ruchi\\OneDrive\\Desktop\\Projects\\BookShoppingCartMVC\\BookShoppingCartMVC\\wwwroot\\images\\gone_with_the_wind.jpg",
+      "PackagePath": "staticwebassets\\images\\gone_with_the_wind.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ruchi\\OneDrive\\Desktop\\Projects\\BookShoppingCartMVC\\BookShoppingCartMVC\\wwwroot\\images\\it.jpg",
+      "PackagePath": "staticwebassets\\images\\it.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ruchi\\OneDrive\\Desktop\\Projects\\BookShoppingCartMVC\\BookShoppingCartMVC\\wwwroot\\images\\life_of_pi.jpg",
+      "PackagePath": "staticwebassets\\images\\life_of_pi.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ruchi\\OneDrive\\Desktop\\Projects\\BookShoppingCartMVC\\BookShoppingCartMVC\\wwwroot\\images\\me_before_you.jpg",
+      "PackagePath": "staticwebassets\\images\\me_before_you.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ruchi\\OneDrive\\Desktop\\Projects\\BookShoppingCartMVC\\BookShoppingCartMVC\\wwwroot\\images\\neuromancer.jpg",
+      "PackagePath": "staticwebassets\\images\\neuromancer.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ruchi\\OneDrive\\Desktop\\Projects\\BookShoppingCartMVC\\BookShoppingCartMVC\\wwwroot\\images\\pride_and_prejudice.jpg",
+      "PackagePath": "staticwebassets\\images\\pride_and_prejudice.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ruchi\\OneDrive\\Desktop\\Projects\\BookShoppingCartMVC\\BookShoppingCartMVC\\wwwroot\\images\\romeo_and_juliet.jpg",
+      "PackagePath": "staticwebassets\\images\\romeo_and_juliet.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ruchi\\OneDrive\\Desktop\\Projects\\BookShoppingCartMVC\\BookShoppingCartMVC\\wwwroot\\images\\the_alchemist.jpg",
+      "PackagePath": "staticwebassets\\images\\the_alchemist.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ruchi\\OneDrive\\Desktop\\Projects\\BookShoppingCartMVC\\BookShoppingCartMVC\\wwwroot\\images\\the_count_of_monte_cristo.jpg",
+      "PackagePath": "staticwebassets\\images\\the_count_of_monte_cristo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ruchi\\OneDrive\\Desktop\\Projects\\BookShoppingCartMVC\\BookShoppingCartMVC\\wwwroot\\images\\the_exorcist.jpg",
+      "PackagePath": "staticwebassets\\images\\the_exorcist.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ruchi\\OneDrive\\Desktop\\Projects\\BookShoppingCartMVC\\BookShoppingCartMVC\\wwwroot\\images\\the_haunting_of_hill_house.jpg",
+      "PackagePath": "staticwebassets\\images\\the_haunting_of_hill_house.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ruchi\\OneDrive\\Desktop\\Projects\\BookShoppingCartMVC\\BookShoppingCartMVC\\wwwroot\\images\\the_hobbit.jpg",
+      "PackagePath": "staticwebassets\\images\\the_hobbit.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ruchi\\OneDrive\\Desktop\\Projects\\BookShoppingCartMVC\\BookShoppingCartMVC\\wwwroot\\images\\the_time_machine.jpg",
+      "PackagePath": "staticwebassets\\images\\the_time_machine.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ruchi\\OneDrive\\Desktop\\Projects\\BookShoppingCartMVC\\BookShoppingCartMVC\\wwwroot\\images\\the_war_of_the_worlds.jpg",
+      "PackagePath": "staticwebassets\\images\\the_war_of_the_worlds.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ruchi\\OneDrive\\Desktop\\Projects\\BookShoppingCartMVC\\BookShoppingCartMVC\\wwwroot\\images\\treasure_island.jpeg",
+      "PackagePath": "staticwebassets\\images\\treasure_island.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\ruchi\\OneDrive\\Desktop\\Projects\\BookShoppingCartMVC\\BookShoppingCartMVC\\wwwroot\\images\\twilight.jpg",
+      "PackagePath": "staticwebassets\\images\\twilight.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ruchi\\OneDrive\\Desktop\\Projects\\BookShoppingCartMVC\\BookShoppingCartMVC\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\ruchi\\OneDrive\\Desktop\\Projects\\BookShoppingCartMVC\\BookShoppingCartMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\ruchi\\OneDrive\\Desktop\\Projects\\BookShoppingCartMVC\\BookShoppingCartMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ruchi\\OneDrive\\Desktop\\Projects\\BookShoppingCartMVC\\BookShoppingCartMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ruchi\\OneDrive\\Desktop\\Projects\\BookShoppingCartMVC\\BookShoppingCartMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ruchi\\OneDrive\\Desktop\\Projects\\BookShoppingCartMVC\\BookShoppingCartMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ruchi\\OneDrive\\Desktop\\Projects\\BookShoppingCartMVC\\BookShoppingCartMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ruchi\\OneDrive\\Desktop\\Projects\\BookShoppingCartMVC\\BookShoppingCartMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ruchi\\OneDrive\\Desktop\\Projects\\BookShoppingCartMVC\\BookShoppingCartMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ruchi\\OneDrive\\Desktop\\Projects\\BookShoppingCartMVC\\BookShoppingCartMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\ruchi\\OneDrive\\Desktop\\Projects\\BookShoppingCartMVC\\BookShoppingCartMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ruchi\\OneDrive\\Desktop\\Projects\\BookShoppingCartMVC\\BookShoppingCartMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ruchi\\OneDrive\\Desktop\\Projects\\BookShoppingCartMVC\\BookShoppingCartMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ruchi\\OneDrive\\Desktop\\Projects\\BookShoppingCartMVC\\BookShoppingCartMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ruchi\\OneDrive\\Desktop\\Projects\\BookShoppingCartMVC\\BookShoppingCartMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ruchi\\OneDrive\\Desktop\\Projects\\BookShoppingCartMVC\\BookShoppingCartMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ruchi\\OneDrive\\Desktop\\Projects\\BookShoppingCartMVC\\BookShoppingCartMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ruchi\\OneDrive\\Desktop\\Projects\\BookShoppingCartMVC\\BookShoppingCartMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\ruchi\\OneDrive\\Desktop\\Projects\\BookShoppingCartMVC\\BookShoppingCartMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ruchi\\OneDrive\\Desktop\\Projects\\BookShoppingCartMVC\\BookShoppingCartMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ruchi\\OneDrive\\Desktop\\Projects\\BookShoppingCartMVC\\BookShoppingCartMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ruchi\\OneDrive\\Desktop\\Projects\\BookShoppingCartMVC\\BookShoppingCartMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ruchi\\OneDrive\\Desktop\\Projects\\BookShoppingCartMVC\\BookShoppingCartMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ruchi\\OneDrive\\Desktop\\Projects\\BookShoppingCartMVC\\BookShoppingCartMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ruchi\\OneDrive\\Desktop\\Projects\\BookShoppingCartMVC\\BookShoppingCartMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ruchi\\OneDrive\\Desktop\\Projects\\BookShoppingCartMVC\\BookShoppingCartMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\ruchi\\OneDrive\\Desktop\\Projects\\BookShoppingCartMVC\\BookShoppingCartMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ruchi\\OneDrive\\Desktop\\Projects\\BookShoppingCartMVC\\BookShoppingCartMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ruchi\\OneDrive\\Desktop\\Projects\\BookShoppingCartMVC\\BookShoppingCartMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ruchi\\OneDrive\\Desktop\\Projects\\BookShoppingCartMVC\\BookShoppingCartMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ruchi\\OneDrive\\Desktop\\Projects\\BookShoppingCartMVC\\BookShoppingCartMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ruchi\\OneDrive\\Desktop\\Projects\\BookShoppingCartMVC\\BookShoppingCartMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ruchi\\OneDrive\\Desktop\\Projects\\BookShoppingCartMVC\\BookShoppingCartMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ruchi\\OneDrive\\Desktop\\Projects\\BookShoppingCartMVC\\BookShoppingCartMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\ruchi\\OneDrive\\Desktop\\Projects\\BookShoppingCartMVC\\BookShoppingCartMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ruchi\\OneDrive\\Desktop\\Projects\\BookShoppingCartMVC\\BookShoppingCartMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ruchi\\OneDrive\\Desktop\\Projects\\BookShoppingCartMVC\\BookShoppingCartMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ruchi\\OneDrive\\Desktop\\Projects\\BookShoppingCartMVC\\BookShoppingCartMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\ruchi\\OneDrive\\Desktop\\Projects\\BookShoppingCartMVC\\BookShoppingCartMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ruchi\\OneDrive\\Desktop\\Projects\\BookShoppingCartMVC\\BookShoppingCartMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ruchi\\OneDrive\\Desktop\\Projects\\BookShoppingCartMVC\\BookShoppingCartMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ruchi\\OneDrive\\Desktop\\Projects\\BookShoppingCartMVC\\BookShoppingCartMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\ruchi\\OneDrive\\Desktop\\Projects\\BookShoppingCartMVC\\BookShoppingCartMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ruchi\\OneDrive\\Desktop\\Projects\\BookShoppingCartMVC\\BookShoppingCartMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ruchi\\OneDrive\\Desktop\\Projects\\BookShoppingCartMVC\\BookShoppingCartMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ruchi\\OneDrive\\Desktop\\Projects\\BookShoppingCartMVC\\BookShoppingCartMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\ruchi\\OneDrive\\Desktop\\Projects\\BookShoppingCartMVC\\BookShoppingCartMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\ruchi\\OneDrive\\Desktop\\Projects\\BookShoppingCartMVC\\BookShoppingCartMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ruchi\\OneDrive\\Desktop\\Projects\\BookShoppingCartMVC\\BookShoppingCartMVC\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\ruchi\\OneDrive\\Desktop\\Projects\\BookShoppingCartMVC\\BookShoppingCartMVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\ruchi\\OneDrive\\Desktop\\Projects\\BookShoppingCartMVC\\BookShoppingCartMVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ruchi\\OneDrive\\Desktop\\Projects\\BookShoppingCartMVC\\BookShoppingCartMVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\ruchi\\OneDrive\\Desktop\\Projects\\BookShoppingCartMVC\\BookShoppingCartMVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ruchi\\OneDrive\\Desktop\\Projects\\BookShoppingCartMVC\\BookShoppingCartMVC\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\ruchi\\OneDrive\\Desktop\\Projects\\BookShoppingCartMVC\\BookShoppingCartMVC\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\ruchi\\OneDrive\\Desktop\\Projects\\BookShoppingCartMVC\\BookShoppingCartMVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ruchi\\OneDrive\\Desktop\\Projects\\BookShoppingCartMVC\\BookShoppingCartMVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BookShoppingCartMVC.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BookShoppingCartMVC.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.BookShoppingCartMVC.props",
+      "PackagePath": "build\\BookShoppingCartMVC.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.BookShoppingCartMVC.props",
+      "PackagePath": "buildMultiTargeting\\BookShoppingCartMVC.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.BookShoppingCartMVC.props",
+      "PackagePath": "buildTransitive\\BookShoppingCartMVC.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
